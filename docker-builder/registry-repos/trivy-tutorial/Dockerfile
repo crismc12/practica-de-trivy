@@ -45,4 +45,3 @@ RUN wget https://ftp.gnu.org/gnu/bash/bash-4.3.tar.gz && \
 COPY lang_dependencies/Pipfile.lock /app/Pipfile.lock
 
 #RUN pip3 install httplib2==0.18.1
-# Comentario para borrar, sólo para hacer el push 
